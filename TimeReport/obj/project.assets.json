@@ -754,11 +754,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\morga\\OneDrive\\Skrivbord\\TimeReport\\TimeReport\\TimeReport.csproj",
+      "projectUniqueName": "C:\\Users\\morga\\OneDrive\\Skrivbord\\TimeReport\\TimeReportApp\\TimeReport\\TimeReport.csproj",
       "projectName": "TimeReport",
-      "projectPath": "C:\\Users\\morga\\OneDrive\\Skrivbord\\TimeReport\\TimeReport\\TimeReport.csproj",
+      "projectPath": "C:\\Users\\morga\\OneDrive\\Skrivbord\\TimeReport\\TimeReportApp\\TimeReport\\TimeReport.csproj",
       "packagesPath": "C:\\Users\\morga\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\morga\\OneDrive\\Skrivbord\\TimeReport\\TimeReport\\obj\\",
+      "outputPath": "C:\\Users\\morga\\OneDrive\\Skrivbord\\TimeReport\\TimeReportApp\\TimeReport\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\morga\\AppData\\Roaming\\NuGet\\NuGet.Config",

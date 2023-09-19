@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "nwhx+a/S38PUcbNBAMnJ9lvDcjsRSkcj+kKmPyZuqo4OJgRL3SCnvQDsCzrbRyT4xmsrOJp2zmQwxTJMyloc9A==",
+  "dgSpecHash": "3Jlf3EaTLfTivhrlTAXXmZGdq3pgr6+8cUp9oqyUwjO4Ktk9sLdvSL96UO99IiTcX2Z6rzCVr7KZUbq/OFwUzg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\morga\\OneDrive\\Skrivbord\\TimeReport\\TimeReport\\TimeReport.csproj",
+  "projectFilePath": "C:\\Users\\morga\\OneDrive\\Skrivbord\\TimeReport\\TimeReportApp\\TimeReport\\TimeReport.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\morga\\.nuget\\packages\\dapper\\2.0.151\\dapper.2.0.151.nupkg.sha512",
     "C:\\Users\\morga\\.nuget\\packages\\microsoft.entityframeworkcore\\7.0.11\\microsoft.entityframeworkcore.7.0.11.nupkg.sha512",
