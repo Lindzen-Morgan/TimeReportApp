@@ -1,0 +1,19 @@
+CREATE TABLE "public"."mjl_project" ( 
+  "id" SERIAL,
+  "project_name" VARCHAR(50) NOT NULL,
+  CONSTRAINT "mjl_project_pkey" PRIMARY KEY ("id")
+);
+
+CREATE TABLE "public"."mjl_person" ( 
+  "id" SERIAL,
+  "person_name" VARCHAR(25) NOT NULL,
+  CONSTRAINT "mjl_person_pkey" PRIMARY KEY ("id")
+);
+
+CREATE TABLE "public"."mjl_project_person" ( 
+  "id" SERIAL,
+  "project_id" INTEGER NOT NULL,
+  "person_id" INTEGER NOT NULL,
+  "hours" INTEGER NOT NULL,
+  CONSTRAINT "mjl_project_person_pkey" PRIMARY KEY ("id")
+);

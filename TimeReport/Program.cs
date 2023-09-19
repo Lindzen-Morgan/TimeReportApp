@@ -1,7 +1,7 @@
 ﻿using System;
 
 using System;
-using System.Configuration; // Add this namespace to access ConfigurationManager
+
 using Npgsql;
 
 class Program
@@ -12,7 +12,7 @@ class Program
 
         PostgresDataAccess dataAccess = new PostgresDataAccess(connectionString);
 
-        // Rest of your application logic here...
+       
     
 
 while (true)
